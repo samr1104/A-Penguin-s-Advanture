@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 963df9c50a9cf42f78a3b965442fef89
+  - enabled: 1
+    path: Assets/Scenes/Level Selection.unity
+    guid: 797a4c87bd5e44646a3ccf44c0de961c
+  - enabled: 1
+    path: Assets/Scenes/0-TutorialScene.unity
+    guid: 8ea37d5a9fa414404a649022a991a613
+  - enabled: 1
+    path: Assets/Scenes/1-AustriliaScene.unity
+    guid: 682ed1c13b2654df6ba87aa87476de74
+  - enabled: 1
+    path: Assets/Scenes/2-HawaiiScene.unity
+    guid: b228ee16b764e4f9684b793011c02058
+  - enabled: 1
+    path: Assets/Scenes/3-BeijingScene.unity
+    guid: 080e64f6d1c77a24e87dfa4c86acb7e4
+  - enabled: 1
+    path: Assets/Scenes/4-RussiaScene.unity
+    guid: 4b88274f632d44102a47c8e8ef0ca495
+  m_configObjects: {}
